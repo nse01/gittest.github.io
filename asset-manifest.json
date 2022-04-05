@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gittest.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/gittest.github.io/static/js/main.209194bb.js",
+    "static/js/787.4eb54f22.chunk.js": "/gittest.github.io/static/js/787.4eb54f22.chunk.js",
+    "static/media/logo.svg": "/gittest.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gittest.github.io/index.html",
+    "main.073c9b0a.css.map": "/gittest.github.io/static/css/main.073c9b0a.css.map",
+    "main.209194bb.js.map": "/gittest.github.io/static/js/main.209194bb.js.map",
+    "787.4eb54f22.chunk.js.map": "/gittest.github.io/static/js/787.4eb54f22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.209194bb.js"
+  ]
+}
